@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tictac-c2959": {
+      "hosting": {
+        "tic-tac": [
+          "tictac-c2959"
+        ]
+      }
+    }
+  }
+}
